@@ -1,0 +1,1 @@
+# bestpartitions static contents
