@@ -1,1 +1,1 @@
-# bestpartitions static contents
+# Best Partitions static contents
